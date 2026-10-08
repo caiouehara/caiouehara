@@ -44,11 +44,6 @@
 
 <p>
   <a href="https://github.com/caiouehara/physics-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caiouehara&repo=physics-simulator&theme=tokyonight" alt="physics-simulator"></a>
-  <a href="https://github.com/caiouehara/chess-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caiouehara&repo=chess-app&theme=tokyonight" alt="chess-app"></a>
-</p>
-<p>
-  <a href="https://github.com/caiouehara/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caiouehara&repo=portfolio&theme=tokyonight" alt="portfolio"></a>
-  <a href="https://github.com/caiouehara/inredd-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caiouehara&repo=inredd-ai&theme=tokyonight" alt="inredd-ai"></a>
 </p>
 
 ---
